@@ -70,7 +70,7 @@ class HorseRaces:
             output[horse_name] = {header[1]: float(value1),
                                   header[2]: float(value2),
                                   header[3]: float(value3)}
-        return
+        return table
 
 ###############################################################################
 ##### TASK 2
